@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Huzaifa Adam</h1>
 <h3 align="center">Frontend Developer | Building Modern Web Experiences</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Huzaifa538&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa538" />
@@ -30,6 +33,14 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa538&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
