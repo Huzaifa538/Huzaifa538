@@ -1,90 +1,68 @@
-<h1 align="center">Hi, I'm Huzaifa Adam</h1>
-<h3 align="center">Frontend Developer | Building Modern Web Experiences</h3>
+<h1 align="center">Hi there, I'm Huzaifa Adam 👋</h1>
+<h3 align="center">Frontend Developer · Digital Marketer · Video Editor</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I+build+modern+web+experiences;React+%7C+TypeScript+%7C+Node.js;E-commerce+%26+business+platforms;Based+in+Karachi%2C+Pakistan" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Huzaifa538&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa538" />
+  <a href="https://modern-portfolio-huzaifa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/huzaifawebdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:huzaifaadam321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa538&label=Profile%20views&color=8b5cf6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- Currently working on **E-commerce websites & modern web apps**
-- Learning **React, Next.js, TypeScript & Node.js**
-- Ask me about **HTML, CSS, JavaScript, React**
-- Reach me at **huzaifaadam321@gmail.com**
-- Fun fact: I turn ideas into responsive websites!
+I'm a frontend developer from **Karachi, Pakistan** who loves turning ideas into fast, polished websites. I also do digital marketing and video editing — so I think about the whole picture, not just the code.
+
+- 🔭 Currently building **e-commerce platforms & business management systems**
+- 🌱 Learning **Next.js, advanced TypeScript & backend architecture**
+- 💬 Ask me about **React, JavaScript, UI design, or growing a business online**
+- 📫 Reach me: **huzaifaadam321@gmail.com**
+- ⚡ Fun fact: every project I ship has a live demo — no screenshots-only portfolios here
 
 ---
-  
-  
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-### Trophies
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa538&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa538&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa538&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa538&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### GitHub Stats
+### 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa538&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+- 🌐 Portfolio: [modern-portfolio-huzaifa.vercel.app](https://modern-portfolio-huzaifa.vercel.app)
+- 💼 LinkedIn: [huzaifawebdev](https://www.linkedin.com/in/huzaifawebdev/)
+- 📧 Email: huzaifaadam321@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa538&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa538&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Ecomerce-website](https://github.com/Huzaifa538/Ecomerce-website) | Fully responsive e-commerce website | JavaScript |
-| [Weather-App](https://github.com/Huzaifa538/Weather-App) | Fully responsive weather app | HTML, CSS, JS |
-| [Task-Manager](https://github.com/Huzaifa538/Task-Manager) | Fully responsive task manager app | HTML, CSS, JS |
-| [My-Portfolio](https://github.com/Huzaifa538/My-Portfolio) | Personal portfolio website | CSS |
-
----
-
-### Connect With Me
-
-<p>
-  <a href="https://github.com/Huzaifa538">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:huzaifaadam321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>From <a href="https://github.com/Huzaifa538">Huzaifa538</a> — building the web, one project at a time!</i>
-</p>
+<p align="center"><i>Always open to freelance projects and interesting collaborations 🚀</i></p>
